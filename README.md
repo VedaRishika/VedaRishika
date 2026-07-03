@@ -6,7 +6,7 @@
 
 🎓 M.Eng. Computer Science (4.0 GPA)  
 💻 Full-Stack Java Engineer | Distributed Systems & Cloud  
-🚀 Actively seeking Full-Time Software Engineering Roles  
+ 
 
 ---
 
