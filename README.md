@@ -4,92 +4,194 @@
 
 # Hi, I'm Veda Rishika 👋
 
-🎓 M.Eng. Computer Science (4.0 GPA)  
-💻 Full-Stack Java Engineer | Distributed Systems & Cloud  
- 
+## Senior Java Full Stack Developer
+
+Senior Java Full Stack Developer with 9+ years of experience designing, developing, and modernizing enterprise applications across Financial Services, Insurance, and Enterprise SaaS domains.
+
+I enjoy building scalable backend systems, cloud-native microservices, secure REST APIs, and distributed applications using Java, Spring Boot, Apache Kafka, AWS, React, and modern engineering practices.
 
 ---
 
-## 🧠 What I Build
+## About Me
 
-- Scalable Spring Boot REST APIs
-- Distributed backend systems with concurrency & fault tolerance
-- React-based production-ready frontends
-- PostgreSQL-optimized data systems
-- Dockerized microservices deployed on AWS
-- AI-integrated applications using LLM APIs
-
----
-
-## 🛠 Technical Stack
-
-### 💻 Languages
-Java (Primary), JavaScript, Python, SQL, C/C++
-
-### ⚙️ Backend & Systems
-Spring Boot  
-REST APIs  
-Multithreading & Concurrency  
-Microservices Fundamentals  
-Fault-Tolerant Workers  
-Object-Oriented Design  
-
-### 🎨 Frontend
-React  
-Angular  
-HTML, CSS  
-API Integration  
-Responsive UI Design  
-
-### 🗄 Databases
-PostgreSQL  
-MySQL  
-Query Optimization  
-Relational Schema Design  
-
-### ☁️ Cloud & DevOps
-AWS (EC2, S3, IAM)  
-Docker  
-Linux  
-Git  
-CI/CD Workflows  
-
-### 🤖 AI & Data
-NLP Pipelines  
-LLM API Integration  
-Feature Engineering  
-Model Evaluation  
+- Building enterprise applications using Java, Spring Boot, and Microservices
+- Developing cloud-native applications on AWS
+- Designing scalable distributed systems and event-driven architectures
+- Building secure REST APIs with Spring Security, OAuth2, and JWT
+- Developing modern React and Angular applications
+- Optimizing backend performance, databases, and enterprise integrations
+- Exploring AI-assisted development using GitHub Copilot and Spring AI
 
 ---
 
-## 🚀 Featured Projects
+## Technical Stack
 
-### 🏗 Distributed Order Processing System
-High-throughput Spring Boot backend with idempotent workers, retry logic, and PostgreSQL optimization for concurrent transaction processing.
+### Languages
 
-### 🛒 Full-Stack Retail Analytics Platform
-Multithreaded Java backend + React frontend handling 100K+ transactions with Docker-based deployment.
+Java (Primary) • SQL • JavaScript • TypeScript • Python
 
-### ☁️ Cloud-Deployed REST Services
-Production-style microservices deployed on AWS with containerization and structured logging.
+### Backend
+
+Java 8/17/21
+
+Spring Boot
+
+Spring Framework
+
+Spring Cloud
+
+Spring Security
+
+Hibernate
+
+JPA
+
+REST APIs
+
+SOAP Web Services
+
+Apache Kafka
+
+Spring AI
+
+### Frontend
+
+React
+
+Angular
+
+TypeScript
+
+Redux Toolkit
+
+RxJS
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Material UI
+
+Angular Material
+
+Bootstrap
+
+### Databases
+
+PostgreSQL
+
+Oracle Database
+
+MongoDB
+
+MySQL
+
+Redis
+
+### Cloud & DevOps
+
+AWS (EC2, ECS, EKS, Lambda, S3, IAM, CloudWatch)
+
+Oracle Cloud Infrastructure (OCI)
+
+Docker
+
+Kubernetes
+
+Terraform
+
+Jenkins
+
+GitHub Actions
+
+Maven
+
+SonarQube
+
+Git
+
+Linux
+
+### Security
+
+Spring Security
+
+OAuth2
+
+JWT
+
+OpenID Connect (OIDC)
+
+SAML
+
+Role-Based Access Control (RBAC)
+
+### Testing
+
+JUnit 5
+
+Mockito
+
+Selenium
+
+TestNG
+
+### Monitoring
+
+Splunk
+
+Grafana
+
+ELK Stack
+
+CloudWatch
 
 ---
 
-## 📈 Engineering Interests
+## Featured Projects
 
-- Scalable backend architecture  
-- Distributed systems design  
-- High-performance database systems  
-- Cloud-native application development  
-- Full-stack system integration  
+### Distributed Order Processing System
+
+Production-style distributed microservices application demonstrating asynchronous order processing, event-driven communication, scalable backend design, and cloud-native architecture using Java, Spring Boot, Apache Kafka, PostgreSQL, Redis, Docker, and Kubernetes.
 
 ---
 
-## 📫 Connect With Me
+### Enterprise Retail Analytics Platform
 
-LinkedIn: https://www.linkedin.com/in/vedarishika-nalla  
-Email: vedarishikareddy@gmail.com  
+Cloud-native analytics platform built for processing large-scale retail transactions, ETL workflows, reporting, and business insights using Java, Spring Boot, React, PostgreSQL, AWS, and Docker.
 
 ---
 
-⭐ I enjoy building production-ready systems that combine strong backend engineering with polished frontend experiences.
+### Cloud-Native REST Services
+
+Collection of secure REST APIs demonstrating enterprise authentication, backend integration, containerized deployment, CI/CD automation, and cloud-native application development using Spring Boot and AWS.
+
+---
+
+## Engineering Interests
+
+- Enterprise Java Development
+- Distributed Systems
+- Microservices Architecture
+- Event-Driven Systems
+- Cloud-Native Applications
+- Backend Performance Optimization
+- Application Modernization
+- System Design
+- Clean Architecture
+
+---
+
+## Connect
+
+LinkedIn:
+https://www.linkedin.com/in/rishika-nalla
+
+Email:
+vedarishikanalla@gmail.com
+
+---
+
+> I enjoy building reliable, scalable software that solves real business problems through clean architecture, modern engineering practices, and continuous learning.
